@@ -1,5 +1,5 @@
 'use strict';
-
+//komentar
 const { Builder, By, until, Key } = require('selenium-webdriver');
 const chai = require('chai');
 const expect = chai.expect;
