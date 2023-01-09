@@ -6,7 +6,7 @@ const expect = chai.expect;
 const chrome = require('selenium-webdriver/chrome');
 const { Options } = require('selenium-webdriver/chromium');
 
-//od problema danasnjega
+
 describe('Final test', function() {
     let driver;
 
